@@ -70,7 +70,7 @@
   Field 5 - Rainfall (inches since last measurement)
   Field 6 - Atmospheric Pressure (inHg)
 */
-unsigned long weatherStationChannelNumber = 12397;
+unsigned long weatherStationChannelNumber = 442923;
 
 void setup() {
 
